@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeaverDono (Chris)
+- 👋 Hi, I’m Chris!
 - 👀 I’m interested in programming, sunflower seeds, and my beautiful family!
 - 🌱 I’m currently learning Python and how to use Git/GitHub
 - 💞️ I’m looking to collaborate on nothing at the moment!
