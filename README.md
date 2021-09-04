@@ -3,7 +3,7 @@
 I believe that a healthy amount of curiosity is always needed when you're identifying problems. That belief is the reason why I enjoy programming so much. Being a software engineer gives me an outlet where I can combine my curiousity and knowledge to make an impact on people's daily lives.
 
 - 🌱 I’m currently learning Python and brushing up on JavaScript <br />
-- 📚 Working towards my Bachelor's Degree of Applied Science in Information Technology <br />
+- 📚 Working towards my Bachelor's Degree in Applied Science <br />
 - ☕ In a serious relationship with Caffeine <br />
 
 ## 🧠 Knowledgeable in...
